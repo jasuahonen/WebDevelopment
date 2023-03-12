@@ -1,0 +1,60 @@
+h1 {
+    text-align: center;
+    border-radius: 8px;
+    background-color: lightgrey;
+    width: 60%;
+}
+
+div {
+    width: 60%;
+    text-align: center;
+}
+
+#list-all-btn {
+    font-size: large;
+    background-color: whitesmoke;
+    border-radius: 8px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#add-btn {
+    font-size: large;
+    background-color: whitesmoke;
+    border-radius: 8px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    text-align: center;
+    border-radius: 8px;
+    background-color: lightgrey;
+    width: 60%;
+}
+table {
+    border: 2px solid;
+    border-collapse: collapse;
+    width: 60%;
+}
+
+th, td {
+    border: 1px solid;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    background-color: lightgray;
+    font-size: large;
+}
+
+tr.low-points {
+    background-color: #fdd;
+}
+
+form {
+    text-align: center;
+    border-radius: 8px;
+    background-color: lightgray;
+    display: inline-block;
+    width: 60%;
+}

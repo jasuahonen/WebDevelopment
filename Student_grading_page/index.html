@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+    <title>student list</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+<h1>Student List</h1>
+<div>
+    <button type="button" id="list-all-btn">List all</button>
+</div>
+
+<table id="student-table">
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>Info</th>
+        <th>Points</th>
+    </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+<h2>Add a student</h2>
+<form>
+    <label for="name-input">Name:</label>
+    <input type="text" id="name-input" name="name" />
+   
+    <label for="info-input">Info:</label>
+    <input type="text" id="info-input" name="info" />
+
+    <label for="points-input">Exercise Points:</label>
+    <input type="number" id="points-input" name="exercise_points" />
+
+    <button type="button" id="add-btn">Add</button>
+</form>
+<script src="code.js"></script>
+</body>
+</html>

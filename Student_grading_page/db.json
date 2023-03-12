@@ -1,0 +1,40 @@
+{
+    "students": [
+      {
+        "id": 0,
+        "name": "Lennier",
+        "exercise_points": 232,
+        "info": ""
+      },
+      {
+        "id": 1,
+        "name": "Sheridan",
+        "exercise_points": 53,
+        "info": ""
+      },
+      {
+        "id": 2,
+        "name": "Mollari",
+        "exercise_points": null,
+        "info": ""
+      },
+      {
+        "id": 3,
+        "name": "Kosh",
+        "exercise_points": 0,
+        "info": "Did not participate"
+      },
+      {
+        "id": 4,
+        "name": "Zathras",
+        "exercise_points": 1,
+        "info": "Species: unknown"
+      },
+      {
+        "name": "Jasu",
+        "info": "No information available",
+        "exercise_points": 100,
+        "id": 5
+      }
+    ]
+  }
